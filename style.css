@@ -1,0 +1,32 @@
+.background_linear {
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(16,41,173,1) 0%, rgba(0,212,255,1) 98%);
+}
+
+#Projects {
+    background-color: #56B1EA;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.pomlka {
+    border: dotted #3491ed 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 30px auto;
+}
+
+.Contact {
+    text-align: center;
+}
+
+.footer {
+    background-color: #56B1EA;
+}
+
+
+
